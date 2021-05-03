@@ -1,6 +1,6 @@
-# portoflio_pwa
+# Portfolio site
 
-A new Flutter application.
+A new Flutter Web application.
 
 ## Getting Started
 
